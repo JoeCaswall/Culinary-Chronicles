@@ -1,0 +1,38 @@
+.images1 {
+  height: 130px;
+  width: 200px;
+  transition: all 0.2s ease-in-out;
+}
+
+.images1:hover {
+  transform: scale(1.1);
+}
+
+.list-one {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.list-two {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+html {
+  margin: auto;
+  width: 50%;
+  min-height: 100%;
+  background: linear-gradient(rgb(120, 191, 245), rgb(61, 95, 167));
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+h1 {
+  background-color: rgba(255, 255, 255, 0.466);
+  border-radius: 5px;
+  text-align: center;
+}
+
+#intro {
+  text-align: center;
+}
