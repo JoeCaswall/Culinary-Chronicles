@@ -10,9 +10,7 @@
 }
 
 .list-one {
-  display: flex;
-  flex-direction: row;
-  margin-bottom: 10px;
+  margin-inline: 10px;
 }
 
 html {
@@ -26,7 +24,7 @@ main {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: space-around;
+  justify-content: center;
 }
 
 h1 {
